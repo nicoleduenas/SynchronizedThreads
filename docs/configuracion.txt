@@ -1,0 +1,4 @@
+numeroClientes:2;
+numeroServidores:2;
+numeroMensajes:2;
+tamanoBuffer:5;
